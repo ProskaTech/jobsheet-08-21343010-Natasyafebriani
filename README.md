@@ -1,5 +1,13 @@
 ## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+Natasya febriani-21343010
+
+• mengakses elemen array 
+memasukkan atau mengambil nilai dalam elemen array Proses akses terhadap elemen array dilakukan dengan menyebutkan index dari elemen array tersebut. Index array adalah nilai numerik yang digunakan sebagai alamat dari elemen array.
+• Panjang array
+Untuk menemukan panjang sebuah array, kita harus menggunakan length properti. Ini sebagai A.length, jangan gunakan A.length () terutama digunakan untuk ukuran objek yang berhubungan dengan string. Properti length akan selalu menampilkan total ruang yang dialokasikan ke array selama inisialisasi.
+• Array multidimensi 
+pengaksesan nilai baris dan kolom Array dalam Arrayatau bisa juga menambahkan data array kedalam array. cara pendeklarasian Array multidimensi : typeArray namaArray [] [] = new typeArray [jumlah] [jumlah]; 
+
+Tugas1 : HariDalamSeminggu. Menampilkan program yang berisikan hari hari dalam seminggu menggunakan for loop. 
+Tugas2 : NomorTerbesar, merupakan program yang menggunakan JOptionPane, yaitu mengimputkan angka/nilai sebanyak 10, lalu program akan menampilkan angka/nilai paling besar.
+Tugas3 : BukuAlamat merupakan program yang menampilkan cara mengakses array sesuai indeks yang di inputkan. gambar
